@@ -1,6 +1,6 @@
 # pizza_bloc_example
 
-in this app you can add and remove pizza using flutter bloc 
+In this app you can add and remove pizza using flutter bloc 
 ## Screenshots
 
  <div style="float: left;">
